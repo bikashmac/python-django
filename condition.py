@@ -16,7 +16,8 @@
 # print("you are old")
 
 
-age= 101
+input_age= input("enter a age:")
+age=int(input_age)
 if age<5:
   print("you are infant")
 elif age>5 and age<13:
