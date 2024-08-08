@@ -1,5 +1,7 @@
 name= input("enter your name:")
-age= input("enter your age")
+print(type(name))
+age= input('enter your age:')
+print(type(age))
 print("welcome",name)
 print(f"your username is {name} and age is {age} ")
 
