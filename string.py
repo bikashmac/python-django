@@ -25,4 +25,5 @@ print(c.count("a"))  #used to count the number of characters or letters in sente
 #string.capitalize()
 #string.swapcase()
 
+#wap to make a calculator.
 
